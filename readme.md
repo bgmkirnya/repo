@@ -1,1 +1,1 @@
-bgmkirnya@gmail.com
+bgmkirnya .\readme.md
